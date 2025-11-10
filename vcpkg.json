@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "libmodbus",
+    "cpp-httplib"
+  ]
+}
